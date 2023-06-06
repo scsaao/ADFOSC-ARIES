@@ -1,0 +1,27 @@
+SITE:
+  ARIES   
+TELESCOPES:
+  ST:
+    NAME: "Sampurnanand Telescope - 1.04 m"
+    LONGITUDE: "79:27:00"
+    LATITUDE: "29:22:00"
+    ALTITUDE: 1951 
+    TIMEZONE: 5.5 
+    HORIZON: 25
+    ZENITH: 85 
+  DOT:
+    NAME: "Devasthal Optical Telescope - 3.6 m"
+    LONGITUDE: "79:41:04"
+    LATITUDE: "29:21:40"
+    ALTITUDE: 2450 
+    TIMEZONE: 5.5 
+    HORIZON: 15
+    ZENITH: 87.5 
+  DFOT:
+    NAME: "Devasthal Fast Optical Telescope - 1.3 m"
+    LONGITUDE: "79:41:00"
+    LATITUDE: "29:21:00"
+    ALTITUDE: 2420 
+    TIMEZONE: 5.5 
+    HORIZON: 25
+    ZENITH: 85 
