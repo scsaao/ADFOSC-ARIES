@@ -36,4 +36,4 @@ options:
                         site and telescopes
   --headtemp HEADTEMP   The YAML file containing the header template as per
                         ARIES's convension
-# Note that the conf file provided shall have many enrties which can also be parsed through command line. The enrties through command line will have precedence over the ones parsed through conf file. It also requires two more YAML files "sitelinfo" and "headtemp" which communicates some of the important general information about site, telescope and instruments at ARIES.   
+#### Note that the conf file provided shall have many enrties which can also be parsed through command line. The enrties through command line will have precedence over the ones parsed through conf file. It also requires two more YAML files "sitelinfo" and "headtemp" which communicates some of the important general information about site, telescope and instruments at ARIES.   
