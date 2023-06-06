@@ -1,0 +1,171 @@
+ORIGFILE:
+  - NULL
+  - "Name of original file before header modification"
+BITPIX:
+  - NULL
+  - "number of bits per data pixel"
+NAXIS:
+  - NULL
+  - "number of data axes"
+NAXIS1:
+  - NULL
+  - "length of data axis 1"
+NAXIS2:
+  - NULL
+  - "length of data axis 2"
+XBINNING:
+  - 1
+  - "X axis binning factor"
+YBINNING:
+  - 1
+  - "Y axis binning factor"
+SITE:
+  - ARIES 
+  - "site name"  
+TELESCOP:
+  - NULL
+  - "name of the telescope"
+GEOLAT: 
+  - NULL
+  - "latitude of the telescope location"
+GEOLONG:    
+  - NULL
+  - "logitude of the telescope location"
+GEOELEV:
+  - NULL
+  - "elevation (in meters) of the telescope location"
+INSTRUME:   
+  - ADFOSC
+  - "name of the instrument"
+DETECTOR: 
+  - ADFOSC-SCI-CAMERA
+  - "name of the detector"
+CCD-TEMP: 
+  - -120
+  - "ccd temperature (in kelvin) of the detector"
+DATE-OBS:
+  - NULL
+  - "date & time (in UTC) of the observations"
+FRAME:
+  - NULL
+  - "date & time (in IST) of the observations"
+OBSERVER:
+  - NULL
+  - "name of the observer (or PI)"
+PROPNO: 
+  - NULL
+  - "proposal ID assigned by TAC"
+PROG: 
+  - NULL
+  - "name of the program, if applicable"
+MODE: 
+  - NULL
+  - "observing mode, e.g., Imaging Spectroscopy"
+CATEGORY: 
+  - NULL
+  - "observation frame category"
+TYPE: 
+  - NULL
+  - "Type of the frame, e.g., flat, arc etc"
+OBJECT:
+  - NULL
+  - "name of the object"
+EXPTIME:
+  - NULL
+  - "exposure time (in second)"
+FILTER1:
+  - NULL
+  - "name of the filter in first wheel"
+FILTER2: 
+  - NULL
+  - "name of the filter in second wheel"
+GRISM:
+  - NULL
+  - "name of the grism wheel used, if applicable"
+SLIT:
+  - NULL
+  - "name of the slit wheel used, if applicable"
+LAMP: 
+  - NULL
+  - "name of the LAMP used, if applicable"
+FOCUSOFF:
+  - NULL
+  - ""
+ALTITUDE:
+  - NULL
+  - "altitude axis angle of the telescope"  
+AZIMUTH:
+  - NULL 
+  - "azimuth axis angle of the telescope"
+ROTANGLE:
+  - NULL
+  - "rotator angle of the telescope (in degrees)"
+ORIGIN:
+  - NULL
+  - ""
+RA:
+  - NULL
+  - "RA in degrees"
+DEC: 
+  - NULL
+  - "Dec in degrees"
+AIRMASS:
+  - NULL
+  - ""
+JD:
+  - NULL
+  - "time in JD"
+EQUINOX:  
+  - "J2000"
+  - ""
+LST: 
+  - NULL
+  - "local sidereal time"
+HA:
+  - NULL
+  - "hour angle"
+OPER: 
+  - NULL
+  - ""
+BZERO:
+  - NULL
+  - ""
+BSCALE:
+  - NULL
+  - ""
+BUNIT:
+  - NULL
+  - ""
+GUID:
+  - NULL
+  - ""
+GUID-RA:
+  - NULL
+  - ""
+GUID-DEC:
+  - NULL
+  - ""
+GUID-EXP:   
+  - NULL
+  - ""
+GUID-WAV:  
+  - NULL
+  - ""
+TC-TUBE:
+  - NULL
+  - ""
+TC-AMBI:
+  - NULL
+  - "ambient temperature by weather station"
+RHUM:
+  - NULL
+  - "relative humidity"
+WIND: 
+  - NULL
+  - "wind speed"
+WIND-DIR:
+  - NULL
+  - "wind direction"
+SEEING24:
+  - NULL
+  - ""
